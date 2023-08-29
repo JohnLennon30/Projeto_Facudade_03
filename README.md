@@ -1,4 +1,4 @@
-# Projeto_Facudade_03
+# Projeto_Faculdade_03
 
 Curso em video _ Gustavo Guanabara
 
